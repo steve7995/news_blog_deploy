@@ -81,7 +81,7 @@ const Postdetails = () => {
 
       <div className=" p-2 md:px-[80px] lg:px-[100px] flex flex-col  rounded-lg  ">
         <img
-          className="w-full  mx-auto mt-8 "
+          className="w-50% h-auto  mx-auto mt-8 "
           src={imagePath + post.photo}
           alt=""
         />
